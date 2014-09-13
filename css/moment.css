@@ -1,0 +1,8 @@
+.facebook-friends > li {
+	display:inline-block;
+}
+
+.photo-wrap{
+	width:100px;
+	height:100px;
+}
